@@ -75,7 +75,7 @@ This is the Content analysis page above. Here we could discover the following in
 
 Profit in Nigeria               |        Profit in Rest Of Africa
 :------------------------------:|:-----------------------------------:
-![](nigeria_total_profit.png)   |  ![](us_total_profit.png) 
+![](nigeria_total_profit.png)   |  ![](africa_total_profit.png) 
 
 4. Nigerias garnered a total loss of £23,290 in 2014. Nigeria did not contribute to the £39,330 made by all Arican countries in that year. Nigeria gave the highest average discounts of all the African countries. With an average discount of 0.7 (in a 0.0 - 0.85 range), Nigeria accounted for £80,750 of £88,610 in discounts.
 
