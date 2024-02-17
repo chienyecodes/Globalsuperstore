@@ -25,10 +25,11 @@ The Discount column consisted a wide range of 29 distinct values, so a new colum
 No modelling was required since we need just a table for the analysis
 
 ## Analysis and Visualisation
-![](Homepage.png)
+![](homepage.png)
 This is the homepage.
 ![](Dashboard.png)
 This is the Content analysis page. Here we could discover the following insights:
+
 1.The top three countries that generated the highest total profit for Global Superstore in 2014 were The United States, India, and China.
 
 2.The top 3 products with the highest total profit for each of these countries are:               
