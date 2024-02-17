@@ -14,16 +14,16 @@ To help Global Superstore analyze and draw out meaningful insights from the Supe
 
 ## Skills/Concepts demonstrated
 The following Power BI features were incorporated-
--DAX
--Quick measures
--Page Navigation
--Filters
--Tooltips
--Button
--Slicers
+- DAX
+- Quick measures
+- Page Navigation
+- Filters
+- Tooltips
+- Button
+- Slicers
 
 ## Data Sourcing
-Data was provided by Global Superstore Data Team as an excel workbook file, and then imported into Power BI for analysis.
+Data was provided by Faux Global Superstore Data Team as an excel workbook file, and then imported into Power BI for analysis.
 
 ## Data Transformation
 Data cleaning and transformation was carried out using power query editor. After scrutinizing all the columns, they were found to be valid and free of error. However,some fixes were required for the data type on the columns. 
@@ -41,7 +41,7 @@ This is the homepage.
 ![](Dashboard.png)
 This is the Content analysis page. Here we could discover the following insights:
 
-1.The top three countries that generated the highest total profit for Global Superstore in 2014 were The United States, India, and China.
+1.The top three countries that generated the highest total profit for Global Superstore in 2014 were The United States, India, and China. The bottom 3 countries are Netherlands, Nigeria and Turkey
 
 2.The top 3 products with the highest total profit for each of these countries are:               
                
@@ -74,6 +74,7 @@ This is the Content analysis page. Here we could discover the following insights
             c. Sanjit Chand (Office Supplies- £6,394)
             d. Hunter Lopez (Technology- £6,980)
             e. Bill Eplett  (Technology- £4,702)
-   
+## Conclusions and Recommendations
+
 
 
