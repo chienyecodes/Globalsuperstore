@@ -10,7 +10,17 @@ The Report consists of 2 pages
 2. Content Analysis
 
 ## Problem Statement
-To help Global Superstore analyze and draw out meaningful insights from the Superstore dataset which would aid management in making informed decisions to improve performance and profitability.
+To help Global Superstore analyze and draw out meaningful insights from the Superstore dataset which would aid management in making informed decisions to improve performance and profitability by answering the following questions:
+
+## Skills/Concepts demonstrated
+The following Power BI features were incorporated-
+-DAX
+-Quick measures
+-Page Navigation
+-Filters
+-Tooltips
+-Button
+-Slicers
 
 ## Data Sourcing
 Data was provided by Global Superstore Data Team as an excel workbook file, and then imported into Power BI for analysis.
