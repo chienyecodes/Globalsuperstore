@@ -3,6 +3,7 @@
 ## A digitaley drive project
 This data analysis project aims to exhibit my skills in analyzing and visualising sales data by providing insights into the sales performance pf Global Superstore, an international company over a period of 4 years (2011-2014).
 By analysing various aspects of the sales data, I was able to identify trends,answer the business problems posed inn the question, and make data-driven recommendation.
+8**_Disclaimer_** : _All datasets and reports do not represent any comapney, Institution or country, but is a dummy dataset to demonstrate capabilities on Power BI._
 
 The Report consists of 2 pages
 1. Home Page
