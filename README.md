@@ -83,18 +83,19 @@ Profit in Nigeria               |        Profit in Rest Of Africa
 
 5. The least profitable product category in Southeast Asia is 'Tables'. It is recommended that the Southeast Asia branch of Global Superstore should stop offering Tables subcategory in Indonesia. It has garnered a total loss of -£10680.28.
 
-![]((profit_australia_copiers)
+![](profit_austrailia_copiers)
 
 6.The product subcategory with the highest average profit in Australia is Copiers (£18,805.14)
 
 ![](top_customers.png)
 
 7.  Here are the most valuable customers and the highest-purchased category of products from Golbal superstore.
-            a. Tamara Chand (Technology- £9,125)
-            b. Raymond Buch (Technology- £7,639)
-            c. Sanjit Chand (Office Supplies- £6,394)
-            d. Hunter Lopez (Technology- £6,980)
-            e. Bill Eplett  (Technology- £4,702)
+- a. Tamara Chand (Technology- £9,125)
+- b. Raymond Buch (Technology- £7,639)
+- c. Sanjit Chand (Office Supplies- £6,394)
+- d. Hunter Lopez (Technology- £6,980)
+- e. Bill Eplett  (Technology- £4,702)
+
 ## Conclusions and Recommendations
 
 
