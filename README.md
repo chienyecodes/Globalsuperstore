@@ -78,10 +78,16 @@ Profit in Nigeria               |        Profit in Rest Of Africa
 ![](nigeria_total_profit.png)   |  ![](us_total_profit.png) 
 
 4. Nigerias garnered a total loss of £23,290 in 2014. Nigeria did not contribute to the £39,330 made by all Arican countries in that year. Nigeria gave the highest average discounts of all the African countries. With an average discount of 0.7 (in a 0.0 - 0.85 range), Nigeria accounted for £80,750 of £88,610 in discounts.
-  
+
+![](least_profitable_southeast_asia.png)
+
 5. The least profitable product category in Southeast Asia is 'Tables'. It is recommended that the Southeast Asia branch of Global Superstore should stop offering Tables subcategory in Indonesia. It has garnered a total loss of -£10680.28.
 
+![]((profit_australia_copiers)
+
 6.The product subcategory with the highest average profit in Australia is Copiers (£18,805.14)
+
+![](top_customers.png)
 
 7.  Here are the most valuable customers and the highest-purchased category of products from Golbal superstore.
             a. Tamara Chand (Technology- £9,125)
