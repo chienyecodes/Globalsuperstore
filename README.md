@@ -1,4 +1,5 @@
 # Global Superstore Analysis
+![](superstore.png)
 ## A digitaley drive project
 This data analysis project aims to exhibit my skills in analyzing and visualising sales data by providing insights into the sales performance pf Global Superstore, an international company over a period of 4 years (2011-2014).
 By analysing various aspects of the sales data, I was able to identify trends,answer the business problems posed inn the question, and make data-driven recommendation.
@@ -24,8 +25,10 @@ The Discount column consisted a wide range of 29 distinct values, so a new colum
 No modelling was required since we need just a table for the analysis
 
 ## Analysis and Visualisation
-
-Here we could discover the following insights:
+![](Homepage)
+This is the homepage.
+![](Report page)
+This is the Content analysis page. Here we could discover the following insights:
 1.The top three countries that generated the highest total profit for Global Superstore in 2014 were The United States, India, and China.
 
 2.The top 3 products with the highest total profit for each of these countries are:               
