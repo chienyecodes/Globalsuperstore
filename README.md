@@ -1,7 +1,7 @@
 # Global Superstore Analysis
 ![](superstore.png)
 ## A digitaley drive project
-This data analysis project aims to exhibit my skills in analyzing and visualising sales data by providing insights into the sales performance pf Global Superstore, an international company over a period of 4 years (2011-2014).
+This data analysis project aims to exhibit my skills in analyzing and visualising sales data by providing insights into the sales performance of Global Superstore, an international company over a period of 4 years (2011-2014).
 By analysing various aspects of the sales data, I was able to identify trends,answer the business problems posed inn the question, and make data-driven recommendation.
 8**_Disclaimer_** : _All datasets and reports do not represent any comapney, Institution or country, but is a dummy dataset to demonstrate capabilities on Power BI._
 
@@ -11,6 +11,33 @@ The Report consists of 2 pages
 
 ## Problem Statement
 To help Global Superstore analyze and draw out meaningful insights from the Superstore dataset which would aid management in making informed decisions to improve performance and profitability by answering the following questions:
+
+Question 1.
+-  What are the three countries that generated the highest total profit for Global Superstore in 2014?
+-  For each of these three countries, find the three products with the highest total profit. Specifically, what are the products’ names and the total profit for each product?
+
+Question 2.
+- Identify the 3 subcategories with the highest average shipping cost in the United States.
+
+Question 3.
+- Assess Nigeria’s profitability (i.e., total profit) for 2014. How does it compare to other African countries?
+-  What factors might be responsible for Nigeria’s poor performance? You might want to investigate shipping costs and the average discount as potential root causes.
+
+Question 4.
+- Identify the product subcategory that is the least profitable in Southeast Asia. Assume that Southeast Asia comprises Cambodia, Indonesia, Malaysia, Myanmar
+(Burma), the Philippines, Singapore, Thailand, and Vietnam.
+-  Is there a specific country in Southeast Asia where Global Superstore should stop offering the
+subcategory identified in 4a?
+
+Question 5.
+-  Which city is the least profitable (in terms of average profit) in the United States? For this analysis, discard the cities with less than 10 Orders. b) Why is this city’s average profit so low?
+
+Question 6.
+-  Which product subcategory has the highest average profit in Australia?
+
+Question 7.
+- Who are the most valuable customers and what do they purchase?
+
 
 ## Skills/Concepts demonstrated
 The following Power BI features were incorporated-
@@ -81,7 +108,7 @@ Profit in Nigeria               |        Profit in Rest Of Africa
 
 ![](least_profitable_southeast_asia.png)
 
-5. The least profitable product category in Southeast Asia is 'Tables'. It is recommended that the Southeast Asia branch of Global Superstore should stop offering Tables subcategory in Indonesia. It has garnered a total loss of -£10680.28.
+5. The least profitable product category in Southeast Asia is 'Tables'. It has garnered a total loss of -£10680.28.
 
 ![](profit_austrailia_copiers)
 
@@ -97,6 +124,10 @@ Profit in Nigeria               |        Profit in Rest Of Africa
 - e. Bill Eplett  (Technology- £4,702)
 
 ## Conclusions and Recommendations
+1. Increase supply inventory to the top three countries most profitable countries, which are The United States, India, and China.
+2. Decrease discounts given in non-revenue generating countirwes to encourage profitability.
+3. It is recommended that the Southeast Asia branch of Global Superstore should stop offering Tables subcategory in Indonesia.
+4. Technology is the most profitable category of products, thus, it would be prident to invest more production into the category.
 
 
 
